@@ -1,8 +1,5 @@
 body{
     color: #ffffff;
-    background: url("background/001.png");
-    background-size: 100% 100%;
-    background-attachment: fixed;
 }
 .father{
     height: 100%;
